@@ -47,15 +47,15 @@ Kурс объёмный, содержательный, построен и пр
 3) Не хватает инструментария, читай инструкции, к некоторым заданиям, например, чтение философской статьи (тоже субъективно). Считаю, что стоит учесть, что курсом интересуются не только и не столько студенты философы, следовательно, нужно написать, как брать ценность из непростых статей по философии, чтобы не пришлось чувствовать себя в какой-то мере неполноценным от того, что второй раз читаешь и носом клюешь или что-то в таком духе
 
 #### Ниже будут представлены скриншоты по теме «Ценности»
-![Image alt](https://github.com/Gydlyk/gydlyk.github.io/blob/master/1.png)
+![содержание](https://github.com/Gydlyk/gydlyk.github.io/blob/master/1.png)
 
-![Alt text](https://github.com/Gydlyk/gydlyk.github.io/blob/master/2.png)
+![вопросы, которые поднимаются в этой главе](https://github.com/Gydlyk/gydlyk.github.io/blob/master/2.png)
 
-![Alt text](https://github.com/Gydlyk/gydlyk.github.io/blob/master/3.png)
+![небольшая проверка знаний](https://github.com/Gydlyk/gydlyk.github.io/blob/master/3.png)
 
-![Alt text](https://github.com/Gydlyk/gydlyk.github.io/blob/master/4.png)
+![видео материал с основной информации по теме](https://github.com/Gydlyk/gydlyk.github.io/blob/master/4.png)
 
-![Alt text](https://github.com/Gydlyk/gydlyk.github.io/blob/master/5.png)
+![писменное задание](https://github.com/Gydlyk/gydlyk.github.io/blob/master/5.png)
 
 
 ### Тема №9
