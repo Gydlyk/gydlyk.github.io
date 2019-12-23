@@ -48,9 +48,13 @@ Kурс объёмный, содержательный, построен и пр
 
 #### Ниже будут представлены скриншоты по теме «Ценности»
 ![Image alt][https://github.com/Gydlyk/gydlyk.github.io/blob/master/1.png]
+[image3]: /https://github.com/Gydlyk/gydlyk.github.io/blob/master/1.png/placehold.it/150x100
 ![Alt text][https://github.com/Gydlyk/gydlyk.github.io/blob/master/2.png]
+
 ![Alt text][https://github.com/Gydlyk/gydlyk.github.io/blob/master/3.png]
+
 ![Alt text][https://github.com/Gydlyk/gydlyk.github.io/blob/master/4.png]
+
 ![Alt text][https://github.com/Gydlyk/gydlyk.github.io/blob/master/5.png]
 
 
